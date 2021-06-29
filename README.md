@@ -1,5 +1,3 @@
-# My-Small-Shop-DSi-OOP-Assignment
-
 <h3>Screenshots<h3>
 
 ![1](https://user-images.githubusercontent.com/21175687/123766916-e7543580-d8e8-11eb-9701-2294d236556c.png)
